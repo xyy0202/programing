@@ -7,5 +7,11 @@ public static class cu{
 			return a;
 			else
 				return b;
-		}
+
+	}
+	public int del(int a,int b){
+		return a-b;
+	}
+
+
 }
